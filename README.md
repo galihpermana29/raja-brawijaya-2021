@@ -1,18 +1,18 @@
-#Raja Brawijaya 2021
+# Raja Brawijaya 2021
 Repository ini adalah repository website https://rajabrawijaya.ub.ac.id/. 
 
-##Initial Act
+## Initial Act
 `npm install`
 
 `npm run start` for start local development
 
 `npm run build` for build
 
-##Folder Structure
-###src/assets
+## Folder Structure
+### src/assets
 All assets for this website stored in this folder, including fonts and images
 
-###src/components
+### src/components
 - AnnounceButton
 This component is used for announcing new articles in abhiyaksa-info pages. When its clicked it redirect to the abhiyaksa-info pages.
 - ArtiLogo
@@ -54,9 +54,9 @@ Card component for Sekilas
 - Statistik
 For statistik section in main pages. This provide statistic of new student, panitia and faculties in this university
 
-###src/pages
+### src/pages
 Coming soon.....
 
 
-##Contact
+## Contact
 For any problem and comments please contact me at email in galihcbn123@gmail.com
