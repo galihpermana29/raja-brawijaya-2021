@@ -14,7 +14,7 @@ All assets for this website stored in this folder, including fonts and images
 
 ### src/components
 - **AnnounceButton**
- - This component is used for announcing new articles in abhiyaksa-info pages. When its clicked it redirect to the abhiyaksa-info pages.
+  - This component is used for announcing new articles in abhiyaksa-info pages. When its clicked it redirect to the abhiyaksa-info pages.
 - **ArtiLogo**
  - This component is used for logo section in main pages. This show an information of raja brawijaya logo.
 - **ComingSoon**
