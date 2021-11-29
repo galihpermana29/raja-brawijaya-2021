@@ -24,7 +24,7 @@ All assets for this website stored in this folder, including fonts and images
 - **DescriptionUkm**
   - This component is used in DetailUkm component which show of UKM Description in detail.
 - **DetailUkm**
- - This component is used as a pages when a ukm cards is clicked, it it go to detail in this case is rendering this component
+  - This component is used as a pages when a ukm cards is clicked, it it go to detail in this case is rendering this component
 - **Footer**
   - Component footer of the website
 - **Jumbotron**
